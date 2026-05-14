@@ -1,0 +1,32 @@
+store,appliance_type,product_name,brand,price_aud,annual_kwh,energy_rating,option_type,suitability_note
+Kmart,kettle,1.7L Auto-Off Kettle,Anko,25.0,32,Efficient,Cheapest,Low-cost replacement with auto shut-off.
+Big W,kettle,Energy Efficient Kettle,Russell Hobbs,49.0,28,High,Best Value,Balanced price and energy use.
+JB Hi-Fi,kettle,Smart Temperature Control Kettle,Breville,109.0,24,Premium,Energy Wise,Temperature control helps reduce repeated boiling.
+Kmart,toaster,Auto-Off 2 Slice Toaster,Anko,29.0,18,Efficient,Cheapest,Budget option for low-use cooking loads.
+Big W,toaster,Variable Browning Toaster,Sunbeam,59.0,16,High,Best Value,Better controls can reduce repeated use.
+The Good Guys,microwave,900W Efficient Microwave,LG,179.0,82,High,Best Value,Good balance of price and energy use.
+JB Hi-Fi,microwave,Compact Inverter Microwave,Panasonic,219.0,76,Premium,Energy Wise,Inverter control is suitable for repeated cooking events.
+Kmart,microwave,Compact Microwave,Anko,99.0,96,Standard,Cheapest,Lowest upfront price.
+The Good Guys,fridge,Energy Efficient Fridge-Freezer,Hisense,699.0,260,High,Best Value,Balanced replacement for continuous loads.
+Harvey Norman,fridge,Inverter Fridge-Freezer,Samsung,999.0,220,Premium,Energy Wise,Inverter compressor suited to always-on refrigeration.
+JB Hi-Fi,fridge,Compact Efficient Fridge,CHiQ,449.0,285,Standard,Cheapest,Lower upfront price for smaller households.
+The Good Guys,freezer,Efficient Upright Freezer,Westinghouse,849.0,250,High,Best Value,Good for high continuous freezer loads.
+Harvey Norman,freezer,Low Energy Chest Freezer,Haier,499.0,210,Premium,Energy Wise,Chest freezer style can reduce energy loss.
+Kmart,freezer,Freezer Timer Reminder Plug,Generic,19.0,300,Control,Cheapest,"Useful for monitoring, not replacing cold storage."
+The Good Guys,washing machine,Front Load Washing Machine,Bosch,849.0,135,Premium,Energy Wise,Front loaders are suited to lower water and energy use.
+JB Hi-Fi,washing machine,Inverter Front Loader,LG,799.0,145,High,Best Value,Good value inverter option for repeated laundry use.
+Big W,washing machine,Laundry Smart Timer Plug,Generic,29.0,180,Control,Cheapest,Low-cost option to shift laundry away from peak hours.
+The Good Guys,dishwasher,Eco Dishwasher,Bosch,899.0,185,Premium,Energy Wise,Eco programs reduce repeated high-power use.
+Harvey Norman,dishwasher,Efficient Dishwasher,Fisher & Paykel,849.0,205,High,Best Value,Balanced appliance replacement option.
+Bunnings,dishwasher,Appliance Timer Plug,Arlec,24.0,230,Control,Cheapest,Low-cost option to schedule off-peak dishwasher cycles.
+JB Hi-Fi,television,Energy Efficient LED TV,TCL,599.0,95,High,Best Value,LED replacement for high TV-site consumption.
+The Good Guys,television,Low Energy QLED TV,Samsung,899.0,80,Premium,Energy Wise,Lower annual kWh for heavy TV use.
+Kmart,television,Standby Saver Powerboard,Generic,19.0,120,Control,Cheapest,Useful where TV site has multiple standby devices.
+JB Hi-Fi,computer,Energy Efficient Mini PC Setup,Generic,699.0,105,High,Energy Wise,Lower-power option for desktop computer sites.
+Officeworks,computer,Smart Standby Powerboard,Jackson,39.0,135,Control,Best Value,"Reduces standby waste from monitors, printers and routers."
+Bunnings,heater,Programmable Heater Timer,Arlec,24.0,420,Control,Cheapest,Helps avoid heater running outside needed hours.
+Big W,heater,Timer Controlled Heater,Dimplex,129.0,360,High,Best Value,Timer function supports behaviour-based saving.
+Harvey Norman,heater,Efficient Panel Heater,Noirot,349.0,300,Premium,Energy Wise,Better for frequent heating periods.
+Kmart,generic,Smart Plug With Timer,Generic,19.0,80,Control,Cheapest,Low-cost way to reduce standby and schedule usage.
+Bunnings,generic,Timer Plug / Standby Saver,Arlec,24.0,75,Control,Best Value,Useful for appliance groups and plug loads.
+JB Hi-Fi,generic,Energy Monitoring Smart Plug,TP-Link Tapo,29.0,70,Monitoring,Overall,Adds monitoring so recommendations can be updated later.
